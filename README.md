@@ -12,6 +12,7 @@
     ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=ffffff)
     ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat&logo=sass&logoColor=ffffff)
     ![Bootstrap](https://img.shields.io/badge/-Bootstrap-453163?style=flat&logo=bootstrap&logoColor=ffffff)
+    &nbsp;
     ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=ffffff)
     ![TypeScript](https://img.shields.io/badge/-TypeScript-27609E?style=flat&logo=typescript&logoColor=ffffff)
     ![Vue](https://img.shields.io/badge/-Vue-35495e?style=flat&logo=vue.js)
