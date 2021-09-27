@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Cihan,
+## Hi there 👋 I'm Cihan,
 
- <img align="right" height="auto" width="250" style="border-radius:50%" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+ <img align="right" height="auto" width="200" style="border-radius:50%" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
 -   🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 -   🌱 &nbsp; Learning more about Web3, Blockchain.
