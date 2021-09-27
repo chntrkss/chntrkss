@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Cihan,
 
- <img align="right" style="height:150px; border-radius:50px;" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+ <img align="right" style="height:100px; border-radius:50px;" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
 -   🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 -   🌱 &nbsp; Learning more about Web3, Blockchain.
