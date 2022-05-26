@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Cihan,
 
- <img align="right" height="auto" width="300" style="border-radius:50%" alt="GIF" src="https://overreacted.io/5fe238cf03a21dfa32af624124fcdcff/deja_vu.gif" />
+ <img align="right" height="auto" width="200" style="border-radius:50%" alt="GIF" src="https://overreacted.io/5fe238cf03a21dfa32af624124fcdcff/deja_vu.gif" />
 <!-- <img align="right" height="auto" width="200" style="border-radius:50%" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" /> -->
 
 -   🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
