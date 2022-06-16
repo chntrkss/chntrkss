@@ -41,6 +41,7 @@
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/chntrkss)](https://twitter.com/chntrkss)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:cihanturkess@gmail.com)](mailto:cihanturkess@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@cihanturkess)
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/)](https://www.buymeacoffee.com/chntrkss)
 
 ⭐️ From [chntrkss](https://github.com/chntrkss)
