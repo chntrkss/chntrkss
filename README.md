@@ -76,7 +76,7 @@
 
 <a href="https://github.com/chntrkss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chntrkss&theme=nightowl&show_icons=true" />
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chntrkss&theme=nightowl&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chntrkss&theme=nightowl&layout=compact" />
 </a>
 <p align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chntrkss&theme=default" alt="chntrkss" /></p>
 
