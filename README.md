@@ -1,16 +1,41 @@
-## Hi there 👋
+## Cihan
 
-<!--
-**chntrkss/chntrkss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack web developer & game developer  
+Working with **JavaScript, C#, Unity**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus Areas
+- Web applications (React, Next.js, Node.js)
+- Game development (Unity, C#)
+- Clean architecture & maintainable code
+
+---
+
+## Tech Stack
+
+**JavaScript**
+- JavaScript (ES6+)
+- TypeScript
+
+**Frontend**
+- HTML, CSS, Tailwind
+- React, Next.js
+
+**Backend**
+- Node.js, Express
+- MongoDB, Firebase
+
+**Game Development**
+- Unity
+- C#
+
+**Tools**
+- Git, Postman, Figma
+
+---
+
+## Links
+- GitHub: https://github.com/chntrkss  
+- LinkedIn: https://www.linkedin.com/in/chntrks/  
+- Medium: https://medium.com/@chntrks
